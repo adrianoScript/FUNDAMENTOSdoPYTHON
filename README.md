@@ -23,7 +23,9 @@ Material complementar ao treinamento online "Linguagem Python na Prática". Para
 ## Conteúdo do curso "Programação em Python"
 
 * **MÓDULO 1:** [Introdução a Linguagem Python](https://github.com/adrianoScript/FUNDAMENTOSdoPYTHON/tree/main/Introdu%C3%A7%C3%A3o%20a%20Linguagem%20Python)
-
+* **MÓDULO 2:** [Mini Projetos]( https://github.com/adrianoScript/FUNDAMENTOSdoPYTHON/tree/main/Mini_Projetos)
+  
+ 
 ---
 
 ### Sobre mim:
